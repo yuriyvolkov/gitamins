@@ -1,3 +1,6 @@
 [submodule "gitflow"]
 	path = gitflow
 	url = https://github.com/nvie/gitflow.git
+[submodule "git-extras"]
+	path = git-extras
+	url = https://github.com/visionmedia/git-extras.git
