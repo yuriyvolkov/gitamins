@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+if [ -d $HOME/.gitamins/gitflow ]
+then
+    PATH=$PATH:$HOME/.gitamins/gitflow
+fi
+
+if [ -d $HOME/.gitamins/git-extras/bin ]
+then
+    PATH=$PATH:$HOME/.gitamins/git-extras/bin
+fi
+
