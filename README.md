@@ -4,7 +4,7 @@ Install
 =======
 
 * clone this repo into your home dir as `.gitamins`
-* `cd ~/.gitamins && install.sh`
+* `cd ~/.gitamins` and run `install.sh`
 * put this line in your .bashrc (or .zshrc):
   `[[ -s "$HOME/.gitamins/gitaminrc" ]] && . "$HOME/.gitamins/gitaminrc"`
 * restart your terminal
